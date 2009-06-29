@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Rszr' target in the 'Rszr' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
